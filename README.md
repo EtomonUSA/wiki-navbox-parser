@@ -40,6 +40,7 @@ const { NavboxParser } = require('@etomon/wiki-nav-parser');
             ...
 ```
 
+
 ### Structure
 
 An image of the data structure mapped onto an actual Wikipedia page is included below.
