@@ -1,5 +1,10 @@
 # Wiki Navbox Parser
 
+[![NPM](https://nodei.co/npm/@etomon/wiki-navbox-parser.png)](https://nodei.co/npm/@etomon/wiki-navbox-parser/)
+
+[![Build Status](https://travis-ci.com/EtomonUSA/wiki-navbox-parser.svg?branch=master)](https://travis-ci.com/EtomonUSA/wiki-navbox-parser)
+
+
 This project is a parser for the data in the navbox section at the bottom of Wikipedia pages.
 
 This data is great for gathering lists of data on specific topics.
